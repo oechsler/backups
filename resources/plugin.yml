@@ -1,0 +1,6 @@
+name: Backup
+version: 0.0.1
+description: Creates world backups in case of total mayham
+author: Samuel Oechsler
+main: it.oechsler.backup.Main
+api-version: 1.16

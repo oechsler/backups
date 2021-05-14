@@ -1,0 +1,12 @@
+# Interval time in hours
+# scheduling backup and cleanup
+backup: 1
+cleanup: 12
+
+# Number of backups that are kept
+# when the cleanup runs
+keep: 24
+
+# Storage and naming of the backup files
+container: "backups"
+prefix: "backup-"
